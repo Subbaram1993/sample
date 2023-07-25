@@ -1,3 +1,0 @@
-This file contains the Personal Access Token used in GitHub developer settings :
-pat tokens
-july  ------> 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
